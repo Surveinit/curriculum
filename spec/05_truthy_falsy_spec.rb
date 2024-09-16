@@ -54,4 +54,4 @@ describe 'truthy and falsy' do
   end
 end
 
-# There is no assignment for this lesson. Please continue to the next lesson.
+# There is no assignment for this lesson. Please continue to the next lessons.
